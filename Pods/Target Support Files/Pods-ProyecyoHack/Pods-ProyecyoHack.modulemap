@@ -1,0 +1,6 @@
+framework module Pods_ProyecyoHack {
+  umbrella header "Pods-ProyecyoHack-umbrella.h"
+
+  export *
+  module * { export * }
+}
